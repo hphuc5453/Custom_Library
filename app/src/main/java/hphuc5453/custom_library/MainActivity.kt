@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     // 1. Bottom sheet dialog
+    // 2. paper db
 
 }
